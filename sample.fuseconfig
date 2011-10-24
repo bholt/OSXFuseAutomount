@@ -1,0 +1,2 @@
+<alias> user@host.edu:<remote absolute path> <local mount point> [options]
+
